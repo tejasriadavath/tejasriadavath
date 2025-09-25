@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejasri Adavatg</h1>
+<h1 align="center">Hi 👋, I'm Tejasri Adavath</h1>
 <h3 align="center">I am passionate about Machine Learning, and AI-driven solutions. With hands-on experience in Python, Power BI, and data visualization, I enjoy transforming raw data into meaningful insights. I have worked on projects such as Landslide Detection using AI and Satellite Imagery, Email inbox Automation and gained practical exposure through industrial training in Machine Learning. I am continuously exploring advanced techniques and tools to build impactful, real-world solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasriadavath&label=Profile%20views&color=0e75b6&style=flat" alt="tejasriadavath" /> </p>
